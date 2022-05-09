@@ -1,0 +1,21 @@
+
+Addition(+), Subtraction(-), Multiplication(*), Division(/).
+Floats(decimal value) are used in Python to represent numbers that arent integers.
+A float can be added to an integer, because Python silently converts the integer to a float.
+Exponentiation(**) = which is the raising of one number to the power of another. (ex. 2**3**2)
+Quotient(//) = Floor division or Direct division
+Remainder(%) = The modulo operator is used to get the remainder of division.
+
+String('')("") = Want to use text in Python, we have to use a String.
+Backslash(ex. "He\'s") = Characters like these must be escaped by placing a backslash before them.
+Newlines(\n) = represents a new line.
+                Newlines will be automatically added for strings that are created using three quotes.
+                ("""This
+                is a
+                multiline
+                text """)
+
+Concatenation = int, float, string, can be added, using concatenation.
+                print("yash" + "matlane")
+String Operations = String can also be multiplied by integers.
+                    print("span" * 3)
